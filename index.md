@@ -3,11 +3,11 @@ layout: default # If you're using a Jekyll theme, specify the layout here
 title: Spolek Parkan Ďáblice
 ---
 
-# Spolek Parkan Ďáblice
+# Spolek Parkán Ďáblice
 
 ## O nás
 
-Spolek Parkan je dobrovolné sdružení rodičů, učitelů a přátel Základní školy Ďáblice. 
+Spolek Parkén je dobrovolné sdružení rodičů, učitelů a přátel Základní školy Ďáblice. 
 Naším cílem je podporovat kvalitu vzdělávání v ďáblické základní škole, rozvíjet 
 spolupráci rodičů, pedagogů a občanů a pomáhat uskutečňovat vizi komunitní školy.
 
