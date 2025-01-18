@@ -30,4 +30,4 @@ Facebook: [www.facebook.com/SpolekParkan](www.facebook.com/SpolekParkan)
 
 ---
 
-&copy; 2023 Spolek Parkan Ďáblice
+&copy; 2025 Spolek Parkan Ďáblice
