@@ -19,7 +19,8 @@ spolupráci rodičů, pedagogů a občanů a pomáhat uskutečňovat vizi komuni
 * Podporujeme bezpečné a zdravé prostředí pro děti a pedagogy školy.
 * Ve spolupráci se školou pořádáme akce přispívající k rozvoji komunitní školy (např. Den dětí, drakiáda).
 * Získáváme pomoc a prostředky na plnění shora uvedených cílů.
-
+## Ná stáhnutí
+[Java certifikace](download/[JAVA][OCA Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808].pdf)
 ## Kontakt
 
 Máte-li zájem o spolupráci nebo se chcete dozvědět více o našich aktivitách, 
