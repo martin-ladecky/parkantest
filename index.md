@@ -22,7 +22,7 @@ spolupráci rodičů, pedagogů a občanů a pomáhat uskutečňovat vizi komuni
 
 ## Ná stáhnutí
 
-[Java certifikace](download/[JAVA][OCA Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808].pdf)
+* [Java certifikace](download/[JAVA][OCA Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808].pdf)
 
 ## Kontakt
 
