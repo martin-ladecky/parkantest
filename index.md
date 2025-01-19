@@ -26,7 +26,7 @@ Máte-li zájem o spolupráci nebo se chcete dozvědět více o našich aktivit�
 neváhejte nás kontaktovat.
 
 Email: [spolekparkandablice@gmail.com](mailto:spolekparkandablice@gmail.com) 
-Facebook: [www.facebook.com/SpolekParkan](www.facebook.com/SpolekParkan)
+Facebook: [www.facebook.com/SpolekParkan](https://www.facebook.com/SpolekParkan)
 
 ---
 
