@@ -1,8 +1,3 @@
----
-layout: default # If you're using a Jekyll theme, specify the layout here
-title: Spolek Parkan Ďáblice
----
-
 # Spolek Parkán Ďáblice
 
 ## O nás
